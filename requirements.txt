@@ -1,1 +1,5 @@
-
+requests
+beautifulsoup4
+duckduckgo-search
+tldextract
+python-whois
